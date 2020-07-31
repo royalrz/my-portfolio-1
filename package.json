@@ -1,8 +1,8 @@
 {
-  "name": "jin.website",
+  "name": "elsavi.website",
   "version": "0.0.1",
   "private": true,
-  "description": "Jin's Website for portfolio",
+  "description": "Elsavi's Website for portfolio",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -18,7 +18,7 @@
     "express",
     "heroku"
   ],
-  "author": "jinzheng",
+  "author": "elsavi",
   "license": "MIT",
   "engines": {
     "node": "12.5.0",
