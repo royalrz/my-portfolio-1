@@ -1,6 +1,6 @@
-## Elsavi's Portfolio 
+## Royal's Portfolio 
 
-https://elsavi-portfolio.herokuapp.com/
+https://royal-rzaxanov.herokuapp.com/
 
 React-template, heroku-app and node.js
 
@@ -8,7 +8,7 @@ Using bootstrap.
 
 ## Start
 
-git clone git@github.com:elsaviShamilov/my-portfolio.git
+git clone git@github.com:royalrz/my-portfolio-1.git
 
 npm install
 
@@ -16,4 +16,4 @@ node server.js
 
 ## Maybe you can see on command:
 
-"Elsavi.website is listening on port localhost:3500"
+"Royal.website is listening on port localhost:3500"
